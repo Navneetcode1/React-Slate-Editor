@@ -2,7 +2,7 @@
   "name": "slate-paging",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tpssh.github.io/slate-paging/",
+  "homepage": "https://github.com/Navneetcode1/React-Slate-Editor",
   "dependencies": {
     "@styled-icons/boxicons-regular": "^10.37.0",
     "@styled-icons/foundation": "^10.34.0",
@@ -53,5 +53,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0"
   }
 }
