@@ -24,7 +24,7 @@ export default function Paging() {
               changeValue={changeHeader}
               page={index + 1}
               value={data.headerValue}
-              placeholder={'点击输入页眉'}
+              placeholder={'enter'}
             ></InputDiv> */}
             {/* <div
               className='page-input-warp'
